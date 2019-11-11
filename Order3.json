@@ -1,0 +1,28 @@
+{
+  "order": {
+    "id": "003",
+    "date": "01/02/2019 12:30",
+    "user": {
+      "id": "003",
+      "username": "Bredly Cooper",
+      "address": {
+        "type": "work",
+        "country": "Moldova",
+        "city": "Chisinau",
+        "street": "Stefan cel Mare"
+      }
+    },
+    "items": [
+      {
+        "id": "1249995656",
+        "title": "Keyboard",
+        "type": "computer appliences"
+      },
+      {
+        "id": "5746774474",
+        "title": "Hand Cream",
+        "type": "Cosmetics"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "id": "004",
+    "date": "01/02/2019 12:30",
+    "user": {
+      "id": "004",
+      "username": "Anna Maria",
+      "address": {
+        "type": "work",
+        "country": "Moldova",
+        "city": "Chisinau",
+        "street": "Tudor Strisca"
+      }
+    },
+    "items": [
+      {
+        "id": "124125656",
+        "title": "Laptop",
+        "type": "computer appliences"
+      },
+      {
+        "id": "57464848",
+        "title": "Chocolate",
+        "type": "Food"
+      }
+    ]
+  }
+}

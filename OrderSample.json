@@ -1,0 +1,26 @@
+order : {
+	id : "001"
+	date : "01/02/2019 12:30"
+	user : {
+		id : "001",
+		username : "John Doe",
+			address : {
+				type : "work",
+				country : "Moldova",
+				city : "Chicinau",
+				street : "Sfatul Tarii 15"
+			}
+		},
+	items : {
+		item : {
+		id : "124124214",
+		title : "Keyboard",
+		type : "computer appliences"
+		},
+		item : {
+		id : "5746436",
+		title : "Mouse",
+		type : "computer appliences"
+		}
+	}
+}

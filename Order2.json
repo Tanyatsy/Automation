@@ -1,0 +1,28 @@
+{
+  "order": {
+    "id": "002",
+    "date": "01/02/2019 12:30",
+    "user": {
+      "id": "002",
+      "username": "Marla Singer",
+      "address": {
+        "type": "work",
+        "country": "Moldova",
+        "city": "Chisinau",
+        "street": "Tudor Strisca"
+      }
+    },
+    "items": [
+      {
+        "id": "124125656",
+        "title": "Pills",
+        "type": "Medicine"
+      },
+      {
+        "id": "57464848",
+        "title": "Mouse",
+        "type": "computer appliences"
+      }
+    ]
+  }
+}
